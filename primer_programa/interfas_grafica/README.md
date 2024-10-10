@@ -15,5 +15,5 @@ py calculadora.py
 (Adjuntar imagen de la calculadora ejecutándose)
 
 <p align="center">
-  <img width="500" src=“./imagenes/ft550.png">
+  <img width="500" src="./imagenes/ft550.png">
 </p>
