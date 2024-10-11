@@ -4,7 +4,7 @@ Aqui se utilizara el modulo Tkinter para cerear una interfas grafica de calculad
 
 (Explicacion)
 
-Que se dener tener instalado para ejecutar el programade forma correcta? Que comando se usa?
+Que se deber tener instalado para ejecutar el programade forma correcta? Que comando se usa?
 
 '''
 py calculadora.py  
